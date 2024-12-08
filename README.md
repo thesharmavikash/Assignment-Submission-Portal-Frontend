@@ -1,5 +1,7 @@
 # Assignment Submission Portal Readme
 
+![Demo App](/public/Assignment-Submission-Portal-Mockup.png)
+
 ## For Admin:
 
 ### Overview:
